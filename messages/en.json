@@ -1,5 +1,12 @@
 {
-  "HomePage": {
-    "title": "hello"
+  "Login": {
+    "title": "Welcome",
+    "username": "Username",
+    "password": "Password",
+    "token": "Token",
+    "actions": {
+      "continue": "Continue",
+      "sign-in": "Sign in"
+    }
   }
 }
