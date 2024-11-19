@@ -31,8 +31,8 @@ export default function CredentialsForm(props: LoginSwitcherProps) {
         </form>
       </div>
       <div className="flex items-center justify-center space-x-2 py-4">
-        <div className="bg-dark-background dark:bg-light-background/20 w-2 h-2 rounded-full" />
-        <div className="bg-dark-background dark:bg-light-background w-2 h-2 rounded-full" />
+        <div className="bg-light-accent/20 dark:bg-dark-accent/20 w-2 h-2 rounded-full" />
+        <div className="bg-light-accent dark:bg-dark-accent w-2 h-2 rounded-full" />
       </div>
     </>
   );
